@@ -1,0 +1,14 @@
+.navbar-end ul li a:active, .navbar-start ul li a:active{
+    background-color: transparent;
+    color: #000
+
+}
+
+.navbar-start ul li a{
+    padding: 7px 10px;
+}
+
+.navbar-start ul li a:hover{
+    background-color: #f1f1f1;
+    
+}
